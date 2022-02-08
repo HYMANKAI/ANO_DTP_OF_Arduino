@@ -1,6 +1,6 @@
 ## 基于Arduino 框架匿名上位机（ver.7）通讯协议
 
-**Version: 1.0**
+**Version: 1.0**  
 **Release date: 2022 Feb 8**
 
 **写在前面**：
