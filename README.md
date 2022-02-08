@@ -23,7 +23,7 @@
 
 > `ANO_DTP.cpp`				源程序，不用管，用就完事了，觉得不爽可以自己改
 
-把项目Github上拉下来，压缩成zip导入到Arduino IDE里就完事了。至于怎么导入，我相信Very NB 的 you 肯定会注意到Arduino IDE上的项目栏：
+把项目Github上拉下来，把拉下来的zip文件导入到Arduino IDE里就完事了。至于怎么导入，我相信Very NB 的 you 肯定会注意到Arduino IDE上的项目栏：
 
 然后，点击它。顺序是 项目-->加载库-->增加.zip库，选择刚才压缩的压缩包就完事了。
 
